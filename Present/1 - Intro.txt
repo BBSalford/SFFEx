@@ -11,13 +11,45 @@
 
 
 What is the present market 
+
+Commercial farming operations; large scale equipment deisned for high productivity/capacity;
+multiple pieces of equipment depending on operation (tillage, seeding, harvesting, material handling, irrigating
+fertilizing, insecticide/herbicide application)
+Majority of North American and Western European farms still privately held sole proprietor or partnerships with family members making up
+management team; rapidly moving toward corporate entities
+Eastern European and Russian farms corporate;
+
+http://www.agcensus.usda.gov/Publications/2012/Online_Resources/Ag_Census_Web_Maps/
+
+Complex variety of practices taking into consideration soil conservation, nutrient inputs, pest and weed management
+water management, biomass management
+
+Heavy experientation in nutrient management with maturity of field mapping technology over last 20 years; seeding, nutrient
+application and pesticide/herbidcide application equipment using data collected during harvest and soil sampling to vary
+application rates in operation.  Increasing push towards drones for collecting field data for this use.
+
+Latest generation of farmers more tecnologically savy, better business training; most with degrees in agriscience.
+Data centric business management practices; utilization of available technology to monitor business activity.
+
+Scale and cost of equipment driving up farm capital costs at a non-linear rate.  Large operations favour turning over large
+equipment assest every 3-4 years to avoid down-time risks; has resulted in influx of large, expensive used equipment with
+limited market; happens in cyclical patten every 5-10 years;  Dealers slow purchase of new equipment during these down cycles
+slowing product development as manufacturers cut costs to ride things out
+
+http://www.agweb.com/article/machinery-costs-per-acre-jump-68-in-10-years-ed-clark/
+
+
 what are the industries 
 
 how are they organized 
 
 where and what are the output of farming used for 
 
-
+food and food byproducts
+feed for livestock
+textiles and other materials
+fuels and lubricants
+alcohols and spirits
 
 etc .....
 
